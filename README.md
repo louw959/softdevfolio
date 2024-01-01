@@ -13,6 +13,7 @@
 
 * Mon Jan 1, 2023
     * (1.1.01) - Navbar working.
+    * (1.1.02) - Added styles to navbar and responsive.
 * Sun Dec 31, 2023
     * (12.31.01) - Started the project.
     * (12.31.02) - Added `navbar` section.

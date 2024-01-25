@@ -2,11 +2,122 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+a, 
+p, 
+span {
     color: #000;
+}
+
+.hero-button {
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    padding-bottom: -1px;
+    border-bottom: 1px solid #000;
+    font-weight: 300;
+    font-size: calc(1.2 * 1rem);
+    animation: fadeIn 1s ease-in-out;
+    animation-duration: 1.3s;
+}
+
+.button {
+    text-decoration: none;
+    padding: 15px 30px;
+    border: 2px solid #000;
 }
 
 html {
     font-family: sans-serif;
     color: #000;
     background-color: #fafafa;
+}
+
+#hero-section {
+    max-width: 950px;
+    margin: auto;
+    margin-top: 120px;
+    height: 60vh;
+}
+
+#hero-section .hero-intro {
+    font-size: calc(2.6 * 1rem);
+    line-height: 60px;
+    animation: fadeIn 0.9s ease-in-out;
+    margin-bottom: 30px;
+}
+
+#intro-section {
+    max-width: 1050px;
+    margin: auto;
+    margin-bottom: 200px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    animation: fadeIn 0.9s ease-in-out;
+}
+
+#intro-section .intro-profile {
+    width: 350px;
+}
+
+#intro-section .intro {
+    width: 50%;
+    font-size: calc(1.2 * 1rem);
+    line-height: 35px;
+}
+
+#intro-section .intro-text {
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 880px) {
+    #intro-section {
+        display: block;
+        text-align: center;
+    }
+
+    #intro-section .intro-profile {
+        margin-bottom: 30px;
+    }
+
+    #intro-section .intro {
+        width: 100%;
+        font-size: calc(1.4 * 1rem);
+        line-height: 35px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1025px) {
+    html {
+        padding: 35px;
+    }
 }

@@ -6,11 +6,13 @@
 
 ## To support my work?
 
-<a href="https://www.buymeacoffee.com/sithukhant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/sithukhant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ## Logs
 
+* Thu Jan 25, 2023
+    * (1.25.01) - Finished hero section and intro section.
 * Mon Jan 1, 2023
     * (1.1.01) - Navbar working.
     * (1.1.02) - Added styles to navbar and responsive.

@@ -14,6 +14,7 @@
 * Fri Jan 26, 2023
     * (1.26.01) - Finished home-cover section and fixed some styling.
     * (1.26.02) - Finished home page.
+    * (1.26.03) - Added portfolio page and styled projects.
 * Thu Jan 25, 2023
     * (1.25.01) - Finished hero section and intro section.
 * Mon Jan 1, 2023

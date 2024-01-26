@@ -110,7 +110,7 @@
     .nav-container {
         position: relative;
         width: 100%;
-        padding: 3vw 0;
+        padding: 3vw 35px;
         z-index: 500;
     }
 
@@ -151,8 +151,6 @@
         animation: iconUp 0.5s;
     }
 }
-
-
 
 
 

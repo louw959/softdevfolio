@@ -11,6 +11,8 @@
 
 ## Logs
 
+* Fri Jan 26, 2023
+    * (1.26.01) - Finished home-cover section and fixed some styling.
 * Thu Jan 25, 2023
     * (1.25.01) - Finished hero section and intro section.
 * Mon Jan 1, 2023

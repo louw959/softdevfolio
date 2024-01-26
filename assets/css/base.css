@@ -110,7 +110,7 @@
     .nav-container {
         position: relative;
         width: 100%;
-        padding: 3vw 35px;
+        padding: 40px 35px;
         z-index: 500;
     }
 
@@ -149,6 +149,23 @@
     .nav-container .menu-items .menu-icons {
         margin-top: 3vw;
         animation: iconUp 0.5s;
+    }
+}
+
+footer {
+    background: #fff;
+    padding: 45px;
+    animation: fadeIn 0.6s ease-in;
+}
+
+footer p {
+    max-width: 1050px;
+    margin: auto;
+}
+
+@media screen and (max-width: 1025px) {
+    footer {
+        padding: 3vw 35px;
     }
 }
 

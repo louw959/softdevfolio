@@ -110,13 +110,33 @@ html {
 }
 
 #home-cover {
-    margin-bottom: 120px;
+    margin-bottom: 100px;
 }
 
 #home-cover img {
     width: 100%;
+    animation: fadeIn 0.9s ease-in-out;
 }
 
+#keep-in-touch {
+    max-width: 1050px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+#keep-in-touch .keep-in-touch-text {
+    font-size: calc(2 * 1rem);
+    line-height: 60px;
+    animation: fadeIn 0.9s ease-in-out;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 480px) {
+    #keep-in-touch .keep-in-touch-text {
+        font-size: calc(1.8 * 1rem);
+        line-height: 45px;
+    }
+}
 
 
 
@@ -133,7 +153,8 @@ html {
 
 @media screen and (max-width: 1025px) {
     #hero-section,
-    #intro-section {
+    #intro-section,
+    #keep-in-touch {
         padding: 35px;
     }
 }

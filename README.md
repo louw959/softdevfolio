@@ -12,8 +12,9 @@
 ## Logs
 
 * Sat Jan 27, 2023
-    * (1.26.01) - Added responsive style to portfolio page.
-    * (1.26.02) - Fixed some styleing for responsive.
+    * (1.27.01) - Added responsive style to portfolio page.
+    * (1.27.02) - Fixed some styleing for responsive.
+    * (1.27.03) - Added `vercel.json` file
 * Fri Jan 26, 2023
     * (1.26.01) - Finished home-cover section and fixed some styling.
     * (1.26.02) - Finished home page.

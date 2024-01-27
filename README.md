@@ -1,7 +1,6 @@
 # Softdevfolio
 
-(Works in progress) Premium (but Free) Portfolio Template for Software Engineers/Developers.
-
+Awesome Portfolio Template for Software Engineers/Developers.
 
 
 ## To support my work?
@@ -16,6 +15,7 @@
     * (1.27.02) - Fixed some styleing for responsive.
     * (1.27.03) - Added `vercel.json` file for Vercel.
     * (1.27.04) - Added `_redirects` file for Netlify.
+    * (1.27.05) - Added `Copyright` text to each file
 * Fri Jan 26, 2023
     * (1.26.01) - Finished home-cover section and fixed some styling.
     * (1.26.02) - Finished home page.

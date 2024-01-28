@@ -10,6 +10,8 @@ Awesome Portfolio Template for Software Engineers/Developers.
 
 ## Logs
 
+* Sun Jan 28, 2023
+    * (1.28.01) - Added realistic photos.
 * Sat Jan 27, 2023
     * (1.27.01) - Added responsive style to portfolio page.
     * (1.27.02) - Fixed some styleing for responsive.

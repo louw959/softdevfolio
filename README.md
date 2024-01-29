@@ -1,15 +1,95 @@
-# Softdevfolio
+# Softdevfolio ![GitHub License](https://img.shields.io/github/license/sithu-khant/softdevfolio) ![GitHub Repo stars](https://img.shields.io/github/stars/sithu-khant/softdevfolio) ![GitHub forks](https://img.shields.io/github/forks/sithu-khant/softdevfolio)
 
 Awesome Portfolio Template for Software Engineers/Developers.
 
+![](assets/softdevfolio-cover.png)
+
+## Features
+
+* Nice and Clean Modern UI Design
+* Multiple Page Layout
+* Fully Responsive
+* Styled with Pure Custom CSS
+
+## Live Demo
+
+* **Vercel** - **[click here](https://softdevfolio.vercel.app/)** 
+* **Netlify** - **[click here](https://softdevfolio.Netlify.app/)**
 
 ## To support my work?
 
 <a href="https://www.buymeacoffee.com/sithukhant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
+## Folder Structure
+
+```
+├─ assets
+│   ├── css
+│   │   ├── base.css                # To style navbar and footer
+│   │   ├── style.css               # To style pages
+│   ├── images                      
+│   │   ├── project-cover-1.png    
+│   │   ├── project-cover.png
+│   ├── favicon.ico
+│   ├── home-cover-1.png
+│   ├── home-cover.png
+│   ├── profile-1.png
+│   ├── profile.png
+├─ templates
+│   ├── footer.html
+│   ├── navbar.html
+├── .gitignore
+├── LICENSE
+├── README.md
+├── _redirects
+├── index.html
+├── portfolio.html
+├── template.js
+└── vercel.json
+```
+
+* `assets` - To keep all your resources here.
+    * `css` - To store all your style files.
+    * `images` - To Store your images for projects from Portfolio page.
+        * Image size should be `400px 300px`.
+    * `favicon.ico`
+    * `home-cover.png / home-cover-1.png` - The image size should be `1500px 350px`.
+        * Default image -  `home-cover.png`.
+        * Realistic image - `home-cover-1.png`.
+    * `profile.png / profile-1.png` - The image size should be `500px 500px`.
+* `templates` - To store template files.
+    * Footer template - `footer.html`.
+    * Navbar template - `navbar.html`.
+* `_redirects` - To remove `.html` extension when you host on **Netlify**.
+    * `https://www.softdevfolio.app/portfolio.html` become `https://www.softdevfolio.app/portfolio`.
+* `template.js` - For inserting template files to the page.
+* `vercel.json` - To remove `.html` extension when you host on **Vercel**.
+
+### Prerequirements
+
+* None (but `git`, of course!)
+
+### Live Server (Optional)
+
+If you want to host it on local server using `live-server`, 
+
+1. To install
+```bash
+npm install -g live-server
+```
+`-g` means it will install it gloablly to access `live-server` command everywhere. Remove that if you just want to install for this project. If you faced `npm not found error`, install it **[here](https://nodejs.org/en/download/)**.
+2. Go to your project folder and type,
+```bash
+live-server
+```
+3. Press enter and your project will be hosted on `127.0.0.1:8080/`.
+
+
 ## Logs
 
+* Mon Jan 29, 2023
+    * (1.28.01) - Made `README` more readable.
 * Sun Jan 28, 2023
     * (1.28.01) - Added realistic photos.
 * Sat Jan 27, 2023

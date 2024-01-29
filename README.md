@@ -21,7 +21,7 @@ Awesome Portfolio Template for Software Engineers/Developers.
 <a href="https://www.buymeacoffee.com/sithukhant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
-## Folder Structure
+### Folder Structure
 
 ```
 ├─ assets
@@ -79,10 +79,12 @@ If you want to host it on local server using `live-server`,
 npm install -g live-server
 ```
 `-g` means it will install it gloablly to access `live-server` command everywhere. Remove that if you just want to install for this project. If you faced `npm not found error`, install it **[here](https://nodejs.org/en/download/)**.
+
 2. Go to your project folder and type,
 ```bash
 live-server
 ```
+
 3. Press enter and your project will be hosted on `127.0.0.1:8080/`.
 
 

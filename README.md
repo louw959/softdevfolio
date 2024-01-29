@@ -87,11 +87,29 @@ live-server
 
 3. Press enter and your project will be hosted on `127.0.0.1:8080/`.
 
+## Image Credits
+
+* Photo by Emre Keshavarz: [link](https://www.pexels.com/photo/man-in-brown-suit-jacket-standing-near-green-trees-3739943/)
+* Photo by Life Of Pix: [link](https://www.pexels.com/photo/silver-laptop-computer-next-to-ceramic-cup-42408/)
+* Photo by Tatiana Fet: [link](https://www.pexels.com/photo/aerial-view-and-grayscale-photography-of-high-rise-buildings-1105766/)
+
+## License
+
+MIT License
+
+## Authors
+* **Sithu Khant** - [GitHub](https://www.github.com/sithu-khant)
+
+## Knowledgement
+
+I was inspired and motivated to create this project because of [Simplefolio](https://github.com/cobiwave/simplefolio) which is featured in [The Complete Web Developer](https://zerotomastery.io/courses/coding-bootcamp/) course of Zero To Mastery Academy. I also wanted to contribute to the course with the one I created. 
+
 
 ## Logs
 
 * Mon Jan 29, 2023
     * (1.28.01) - Made `README` more readable.
+    * (1.28.01) - Added knowledgement section to the readme file.
 * Sun Jan 28, 2023
     * (1.28.01) - Added realistic photos.
 * Sat Jan 27, 2023

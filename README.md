@@ -4,6 +4,8 @@ Awesome Portfolio Template for Software Engineers/Developers.
 
 ![](assets/softdevfolio-cover.png)
 
+**This template is featured in [The Complete Web Developer Course](https://zerotomastery.io/courses/coding-bootcamp/) by Zero To Mastery Academy.**
+
 ## Features
 
 * Nice and Clean Modern UI Design
@@ -107,9 +109,11 @@ I was inspired and motivated to create this project because of [Simplefolio](htt
 
 ## Logs
 
+* Tue Jan 30, 2023
+    * (1.30.01) - Updated `README`.
 * Mon Jan 29, 2023
-    * (1.28.01) - Made `README` more readable.
-    * (1.28.01) - Added knowledgement section to the readme file.
+    * (1.29.01) - Made `README` more readable.
+    * (1.29.02) - Added knowledgement section to the readme file.
 * Sun Jan 28, 2023
     * (1.28.01) - Added realistic photos.
 * Sat Jan 27, 2023

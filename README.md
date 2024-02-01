@@ -109,26 +109,28 @@ I was inspired and motivated to create this project because of [Simplefolio](htt
 
 ## Logs
 
-* Tue Jan 30, 2023
+* Thu Feb 1, 2024
+    * (2.1.01) - Updated `README` from `2023` to `2024`.
+* Tue Jan 30, 2024
     * (1.30.01) - Updated `README`.
-* Mon Jan 29, 2023
+* Mon Jan 29, 2024
     * (1.29.01) - Made `README` more readable.
     * (1.29.02) - Added knowledgement section to the readme file.
-* Sun Jan 28, 2023
+* Sun Jan 28, 2024
     * (1.28.01) - Added realistic photos.
-* Sat Jan 27, 2023
+* Sat Jan 27, 2024
     * (1.27.01) - Added responsive style to portfolio page.
     * (1.27.02) - Fixed some styleing for responsive.
     * (1.27.03) - Added `vercel.json` file for Vercel.
     * (1.27.04) - Added `_redirects` file for Netlify.
     * (1.27.05) - Added `Copyright` text to each file
-* Fri Jan 26, 2023
+* Fri Jan 26, 2024
     * (1.26.01) - Finished home-cover section and fixed some styling.
     * (1.26.02) - Finished home page.
     * (1.26.03) - Added portfolio page and styled projects.
-* Thu Jan 25, 2023
+* Thu Jan 25, 2024
     * (1.25.01) - Finished hero section and intro section.
-* Mon Jan 1, 2023
+* Mon Jan 1, 2024
     * (1.1.01) - Navbar working.
     * (1.1.02) - Added styles to navbar and responsive.
 * Sun Dec 31, 2023
